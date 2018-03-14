@@ -1,9 +1,13 @@
 {
   "name": "vscode-gif-cards",
   "displayName": "vscode-gif-cards",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericadamski/vscode-gif-cards.git"
+  },
   "description": "A simple app that allows you to query for gifs from vscode",
   "version": "0.0.1",
-  "publisher": "ericadamski",
+  "publisher": "ericTurf",
   "engines": {
     "vscode": "^1.21.0"
   },
